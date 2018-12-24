@@ -1,6 +1,6 @@
 {  
   "author": {
-    "name": "Deepthi",
+    "name": "Deepthi"
   },
   "dependencies": {
     "jquery": ">=1.10",
@@ -10,18 +10,18 @@
   "devDependencies": {
     "node-sass": "^3.4.2"
   },
-  "homepage": "",
+  "homepage": "https://github.com/deepthi2410/bootstrap-daterangepicker_to_to",
   "license": "MIT",
   "main": "daterangepicker.js",
   "name": "bootstrap-daterangepicker_to_to",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dangrossman/bootstrap-daterangepicker.git"
+    "url": "git+https://github.com/deepthi2410/bootstrap-daterangepicker_to_to.git"
   },
   "scripts": {
     "scss": "node-sass daterangepicker.scss > daterangepicker.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "style": "daterangepicker.css",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
