@@ -1,0 +1,27 @@
+{  
+  "author": {
+    "name": "Deepthi",
+  },
+  "dependencies": {
+    "jquery": ">=1.10",
+    "moment": "^2.9.0"
+  },
+  "description": "Date range picker component for Bootstrap ",
+  "devDependencies": {
+    "node-sass": "^3.4.2"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "main": "daterangepicker.js",
+  "name": "bootstrap-daterangepicker_to_to",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangrossman/bootstrap-daterangepicker.git"
+  },
+  "scripts": {
+    "scss": "node-sass daterangepicker.scss > daterangepicker.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "style": "daterangepicker.css",
+  "version": "1.0.0"
+}
